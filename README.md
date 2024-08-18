@@ -13,7 +13,7 @@ The gears have a module of 0.8 by default, which can be changed in the `adapter_
 
 ## How to
 1. Download [OpenSCAD](https://openscad.org/downloads.html) and this repository
-1. Open [custom_parameters.scad](custom_parameters.scad) with OpenSCAD and enter the [parameters](#adapter-parameters) for your focus ring
+1. Open [custom_params.scad](custom_params.scad) with OpenSCAD and enter the [parameters](#adapter-parameters) for your focus ring
 1. Depending on your preferred [fastening method](#fastener-options), open
     - [adapter_cabletie.scad](adapter_cabletie.scad) or 
     - [adapter_screw.scad](adapter_screw.scad) and [screw_head.scad](screw_head.scad)
